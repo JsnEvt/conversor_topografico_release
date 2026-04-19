@@ -82,9 +82,19 @@ Desenvolvido com foco em:
 ## 🧱 Arquitetura
 
 
-
-
-
+```bash
+assets/
+backups/
+licenciamento/
+src/
+│
+├── core/
+├── services/
+├── database/
+├── ui/
+└── utils/
+updater/
+```
 
 ---
 
@@ -100,4 +110,10 @@ Desenvolvido com foco em:
 
 ---
 
+👨‍💻 Autor
 
+Jason Everton
+
+📄 Licença
+
+Uso controlado por sistema de licenciamento interno.
